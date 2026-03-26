@@ -65,7 +65,7 @@ Trained and evaluated **4 model variants** on a character-level Shakespeare data
 ## Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/transformer-moe-study.git
+git clone https://github.com/<FromIron829>/transformer-moe-study.git
 cd transformer-moe-study
 pip install -r requirements.txt
 ```
