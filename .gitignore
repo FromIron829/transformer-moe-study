@@ -1,0 +1,20 @@
+# Model checkpoints (large files)
+checkpoints/*.pt
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
